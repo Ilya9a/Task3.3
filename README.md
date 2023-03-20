@@ -5,5 +5,5 @@
 - 21 yaers old
 - study
 
-!(/img/GatQru7yxco.jpg)
+![alt image](/img/GatQru7yxco.jpg)
 
